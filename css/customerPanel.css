@@ -1,0 +1,26 @@
+body {
+	color: #5a5a5a;
+	background-color: #000!important;
+}
+
+.title{
+	text-align: center;
+	color: white;
+}
+
+.table-user-information > tbody > tr:first-child {
+	border-top: 0;
+}
+
+
+.table-user-information > tbody > tr > td {
+	border-top: 2px;
+}
+.toppad{
+	margin-top:20px;
+}
+
+td {
+	height: 30px!important;
+	vertical-align: middle!important;
+  }
