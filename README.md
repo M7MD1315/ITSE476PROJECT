@@ -16,9 +16,11 @@ The name of our ITCS333 project was Dream Cinema, and this is what the current p
 - Note that the project is an open-source project.
 
 ## Features 
-- 
-- 
-- 
+- The ability to browse all showing now movie
+- The ability to browse all upcoming movie
+- The user can book a ticket for a certain movie
+- The user can write comments in the movie page
+
 
 ## Requirements 
 - Apache 2.2 or 2.4
@@ -71,20 +73,20 @@ If our open-source project becomes applicable, we will announce it. On the main 
 
 
 ## FAQ
-##### Is the project completely open source? 
+#### Is the project completely open source? 
 Yes, the project is completely open-source, and you can download the code of the software and use it or even join the project and contribute to it . 
 
-##### What is the bar limit for someone to contribute in the project ?
+#### What is the bar limit for someone to contribute in the project ?
 Everyone can join the project and it is not restricted to the only developer as even marketer can join and try to market the software in social media, so wherever the field you ae into don’t be shy just to enter the discussion page of the project and write to us about your skills and we will be happy to discuss with you to contribute to the project in a you that is suitable with you.
 
-##### What type of developer can contribute to the code? 
+#### What type of developer can contribute to the code? 
 Any developer can contribute  in the following  field of code: 
 The PHP part as much of the project is built using PHP
 HTML,CSS so if you want to contribute to the html page of code you are welcomed
 Front end JavaScript to contribute in making the project pages more interactive 
 Note that any other type pf developer can contribute to the code if he show us a way that can improve the project such as and AI developer who may have a python script that will help in data analytic in project or something , so the developer should the writhe in the discussion page about his idea and tool and the team will discuss that with him . 
 
-##### What is the programming languages used in the project ? 
+#### What is the programming languages used in the project ? 
 Html ,CSS , PHP, JavaScript
 
 ## Developent Status
