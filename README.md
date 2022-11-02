@@ -67,6 +67,66 @@ We use the canned hosting service GitHub (https://github.com/) for our project t
 
 ## Codes of Conduct
 To guide those who wish to participate in our open-source project "Dream Cinema", we have added a code of conduct. Reporting unacceptable behavior is possible. As a team, we are committed to providing a welcoming and inspiring community for everyone and expect to uphold the Code of Conduct. In addition, violators of our open-source code of conduct will be banned from the site.
+.
+.
+.
+### A guide to participating in the open source "Dream Cinema" project
+
+#### Our pledge
+-	With the open-source project "Cinema Dream", we pledge to make community participation abuse-free for everyone, regardless of gender identity.
+-	Throughout our work and interactions, we pledge to contribute to a welcoming environment.
+-	Our commitment is to accept responsibility, apologize to those affected by our mistakes, and learn from them.
+
+
+
+#### Our standards
+Among the behaviors that contribute to a positive community environment are:
+
+##### -	Be friendly and patient.
+Be Welcome: We strive to create a community that is inclusive of all backgrounds and identities. It includes individuals of all races, socioeconomic classes, educational levels, genders, gender identities, ages, political beliefs, religions, etc.
+
+##### -	Respect different opinions and experiences.
+Be respectful: We won't always agree, but disagreement isn't an excuse for misbehavior. There will be times when we feel frustrated, but we shouldn't let that frustration turn into a personal attack. In order for society to be productive, people must not feel uncomfortable or threatened.
+Try to understand the reason for the difference: There are always social and technical disagreements. The key to resolving differences and contrasting viewpoints is to resolve them constructively. Keep in mind that we are all different. It does not mean that someone is wrong if you do not understand why they hold a particular viewpoint. Instead, focus on solving problems and learning from them.
+
+##### -	Be kind to others.
+Choose your words carefully: Kindness to others is important. Be respectful of other participants and do not insult them. Exclusionary behavior and harassment are not acceptable.
+
+Unacceptable behavior includes:
+-	The use of sexual language or images.
+-	A personal attack or derogatory remarks.
+-	Harassment in public or private.
+-	If you post someone else's private information, such as an email address or physical address, without their express permission, you will be breaking the law.
+
+#### Enforcement responsibilities
+Community leaders are accountable for clarifying and enforcing the rules of acceptable behavior and will take appropriate and fair action if any inappropriate behavior is observed.
+Comments, commitments, code, wiki edits, issues, and other contributions that violate the Code of Conduct must be removed, edited, or rejected by community leaders.
+
+
+
+
+#### Scope
+An individual is required to adhere to this Code of Conduct when representing the community in public and in all community settings. In addition to using an official email address, posting via an official social media account, or serving as a designated representative at an event, you can also represent our community using an official email address.
+
+#### Enforcement
+It is possible to report abusive, harassing, or otherwise unacceptable behavior to community leaders who are responsible for enforcing the law. There will be a prompt and fair review and investigation of all complaints.
+The community's leaders are obligated to respect reporters' privacy and security.
+
+#### Enforcement Guidelines
+In determining the consequences of any action, they consider to be in violation of this Code of Conduct, community leaders will follow these Community Impact Guidelines:
+1.	Correction
+Impact on the community: Behavior that is deemed inappropriate or unwelcome by the community, such as inappropriate language.
+Consequences: Warning from community leaders outlining the nature of the violation and explaining why the behavior was inappropriate. There may be a need for a public apology.
+2.	Warning
+Impact on the community: Violations resulting from a single incident or a series of incidents.
+Consequences: A warning about the consequences of continuing the behavior. Interactions with individuals are not allowed. The violation of these terms may result in a temporary or permanent ban.
+3.	Temporary ban
+Impact on the community: There is a serious violation of community norms, such as persistent inappropriate behavior.
+Consequences: Temporary restrictions on public interaction or communication with the community. There may be no communication with the individuals in question in public or privately. A ban might be imposed permanently for violations of these rules.
+4.	Permanent ban
+ Impact on the community: Demonstrates a pattern of transgressing social norms, such as persistently inappropriate behavior, or criticizing or ridiculing groups of people.
+Consequence: A permanent ban on all forms of communal interaction with the public.
+
 
 ## Announcing
 If our open-source project becomes applicable, we will announce it. On the main site of the project, we will prepare advertisement pages, and then we will post advertisements on the appropriate forums. Our plan is to announce the project on the forums about "Dream Cinema" to ensure we receive the most attention. Our announcement will be short so that it gets to the heart of the matter and explain the announcement as a new project. This announcement hopes to increase both contributors and new users' participation in our open-source project over time, even if it is a slow process.
