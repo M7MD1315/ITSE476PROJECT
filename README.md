@@ -151,7 +151,22 @@ Note that any other type pf developer can contribute to the code if he show us a
 Html ,CSS , PHP, JavaScript
 
 ## Developent Status
-some bla bla bla
+- [ ] Convert the project from a private to an open-source
+- [x] Some enhancement
+- [x] Write the code
+- [x] Architect and design the system
+
+## Documentation
+[Click here](https://github.com/M7MD1315/ITSE476PROJECT/blob/main/Documentation.md)
+
+## Developer Documentation
+[Click here](https://github.com/M7MD1315/ITSE476PROJECT/blob/main/Devs%2CDocumentation.md)
+
+
+
+
+
+
 
 
 
