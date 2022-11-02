@@ -92,6 +92,7 @@ Try to understand the reason for the difference: There are always social and tec
 ##### -	Be kind to others.
 Choose your words carefully: Kindness to others is important. Be respectful of other participants and do not insult them. Exclusionary behavior and harassment are not acceptable.
 
+
 Unacceptable behavior includes:
 -	The use of sexual language or images.
 -	A personal attack or derogatory remarks.
