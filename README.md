@@ -30,9 +30,6 @@ The name of our ITCS333 project was Dream Cinema, and this is what the current p
 ## Downloads
 You can download the source code by visiting the project repository on GitHub
 
-## Version Control and Bug Tracker Access
-Our open-source software project, "Dream Cinema" uses version control. Users can view project materials and get current and future updates through version control in our project. Using version control, both users and developers can get the information they need. Our open-source software project uses https://github.com/, which allows unlimited free version control.
-Additionally, our project contains a bug tracking system, which allows us to keep track of bugs day-to-day, giving bug reports based on the number of users who report bugs. Through this, bugs are detected and corrected immediately, and repeated errors are recorded. Additionally, bug trackers track improvements, changes to documents, tasks, and more, in addition to software flaws.
 
 ## Communications Channel
 The best way to communicate in the project is by using the discussion page in the GitHub repository as it is the official communication channel, and you can discuss anything related to the project. In case of urgent things, you should make the title of your discussion (important).
