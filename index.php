@@ -1,4 +1,5 @@
 <?php
+$newVAlue = 18;
 if (!session_id())
 {
   session_start();
