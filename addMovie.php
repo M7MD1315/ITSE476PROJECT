@@ -22,7 +22,7 @@ if (isset($_POST['submit'])) {
 		values ('$name','$genre','$director','$description','$image','$imdb','$showTime','$catagory');";
 	if ($conn->exec($sql)) {
 		if (move_uploaded_file($image_tmp, $target)) {
-			echo "<script>alert('Movie NOT Successfully Added');</script>";
+			echo "<script>alert('Movie Successfully Added');</script>";
 		} else {
 			echo "<script>alert('Movie failed to add');</script>";
 		}
