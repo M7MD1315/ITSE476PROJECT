@@ -22,8 +22,6 @@ if (!(($_SESSION['admin']) == 1)) {
 
 <body>
 	<?php include 'navbar.php'; ?>
-	<div style="margin: 100px auto 80px auto;" class="container">
-		<div class="admin row" style="text-align:center">
 			<h3 style="margin-bottom: 50px">Admin Controls</h3>
 			<div class="btn-tp col-md-6">
 				<a style="width: 100%;" href="addMovie.php" class="myButton">Add Movie</a>
